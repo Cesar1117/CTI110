@@ -1,3 +1,8 @@
-print ('Enter Integer',end='' )
+print ('Enter Integer:',end='' )
 my_int=int(input())
-print (my_int)
+print ('You entered:',my_int)
+int_sqa= my_int**2
+print(my_int,'squared is',int_sqa)
+int_cub= my_int**3
+print(my_int,'cubed is',int_cub)
+print ('Enter another Interger:',end='')
