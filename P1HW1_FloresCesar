@@ -9,3 +9,5 @@ print ('Enter another Interger:',end='')
 your_int=int(input())
 plus=my_int+your_int
 print(my_int,'+',your_int,'=',plus)
+times=my_int*your_int
+print(my_int,'*',your_int,'=',times)
