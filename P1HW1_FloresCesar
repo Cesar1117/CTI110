@@ -6,3 +6,6 @@ print(my_int,'squared is',int_sqa)
 int_cub= my_int**3
 print(my_int,'cubed is',int_cub)
 print ('Enter another Interger:',end='')
+your_int=int(input())
+plus=my_int+your_int
+print(my_int,'+',your_int,'=',plus)
